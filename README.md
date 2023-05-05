@@ -1,16 +1,19 @@
-# to_do_app
+# To-Do_flutter_app
 
-A new Flutter project.
 
-## Getting Started
+## About
 
-This project is a starting point for a Flutter application.
+   - This is a simple app for To-Do by MVC pattern.
 
-A few resources to get you started if this is your first Flutter project:
+## Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Main features are as follows:
+    - You can set your daily rotuine work.
+    - Light and Dark Theme.
+    - You can also add new To-Do.
+    - You can also Delete Your to-Do.
+    - You can Tick when your To_do is Done.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+   
+## App Gif:-
+   - 
